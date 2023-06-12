@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @huseyinsavas08
 - 👀 I’m interested in Swift and iOS UIKit
-- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me LinkedIn
 
 <!---
